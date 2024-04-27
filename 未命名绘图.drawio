@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T07:30:17.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="bpREzaagyRt2tz1T9h4y" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T07:46:18.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="1NM5mqTNMGbQbOQcXKJ0" version="24.3.1" type="github">
   <diagram name="第 1 页" id="vmPLHQrTiqvJXLSUL57_">
     <mxGraphModel dx="1402" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,28 +40,40 @@
           <mxGeometry x="-63.75" y="306" width="52.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mYJCuAN_j3ZSUV2BkIeG-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-303" y="396" width="420" height="144" as="geometry" />
+          <mxGeometry x="-304" y="391" width="414" height="154" as="geometry" />
         </mxCell>
         <mxCell id="mYJCuAN_j3ZSUV2BkIeG-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;中&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;词&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-295" y="404" width="49" height="113" as="geometry" />
+          <mxGeometry x="-275" y="404" width="49" height="113" as="geometry" />
         </mxCell>
         <mxCell id="mYJCuAN_j3ZSUV2BkIeG-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-246" y="460" as="sourcePoint" />
-            <mxPoint x="-201" y="460" as="targetPoint" />
+            <mxPoint x="-225" y="460" as="sourcePoint" />
+            <mxPoint x="-180" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mYJCuAN_j3ZSUV2BkIeG-27" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;清&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;洗&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="404" width="49" height="113" as="geometry" />
+          <mxGeometry x="-180" y="404" width="49" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="mYJCuAN_j3ZSUV2BkIeG-28" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;数&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;清&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;洗&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="404" width="49" height="113" as="geometry" />
+        <mxCell id="mYJCuAN_j3ZSUV2BkIeG-28" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;特&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;征&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;提&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;取&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="404" width="49" height="113" as="geometry" />
         </mxCell>
         <mxCell id="mYJCuAN_j3ZSUV2BkIeG-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-153" y="460" as="sourcePoint" />
-            <mxPoint x="-108" y="460" as="targetPoint" />
+            <mxPoint x="-130" y="460" as="sourcePoint" />
+            <mxPoint x="-85" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mYJCuAN_j3ZSUV2BkIeG-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-36" y="460" as="sourcePoint" />
+            <mxPoint x="8" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mYJCuAN_j3ZSUV2BkIeG-38" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;权&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;重&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;算&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="8" y="404" width="49" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="mYJCuAN_j3ZSUV2BkIeG-42" value="去除停用词、标点符号" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="515" width="75" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
